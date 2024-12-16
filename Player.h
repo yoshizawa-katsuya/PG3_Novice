@@ -19,4 +19,8 @@ private:
 
 	intVector2 pos_;
 
+	int width_;
+	int height_;
+
+	int speed_;
 };
